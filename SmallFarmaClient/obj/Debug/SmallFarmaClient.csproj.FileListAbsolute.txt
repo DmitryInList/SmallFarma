@@ -1,0 +1,8 @@
+D:\!!! НОВАЯ ЖИЗНЬ !!!\Поиск работы\=Спарго Технологии=\SmallFarmaClient\bin\Debug\SmallFarmaClient.exe.config
+D:\!!! НОВАЯ ЖИЗНЬ !!!\Поиск работы\=Спарго Технологии=\SmallFarmaClient\bin\Debug\SmallFarmaClient.exe
+D:\!!! НОВАЯ ЖИЗНЬ !!!\Поиск работы\=Спарго Технологии=\SmallFarmaClient\bin\Debug\SmallFarmaClient.pdb
+D:\!!! НОВАЯ ЖИЗНЬ !!!\Поиск работы\=Спарго Технологии=\SmallFarmaClient\obj\Debug\SmallFarmaClient.csproj.AssemblyReference.cache
+D:\!!! НОВАЯ ЖИЗНЬ !!!\Поиск работы\=Спарго Технологии=\SmallFarmaClient\obj\Debug\SmallFarmaClient.csproj.SuggestedBindingRedirects.cache
+D:\!!! НОВАЯ ЖИЗНЬ !!!\Поиск работы\=Спарго Технологии=\SmallFarmaClient\obj\Debug\SmallFarmaClient.csproj.CoreCompileInputs.cache
+D:\!!! НОВАЯ ЖИЗНЬ !!!\Поиск работы\=Спарго Технологии=\SmallFarmaClient\obj\Debug\SmallFarmaClient.exe
+D:\!!! НОВАЯ ЖИЗНЬ !!!\Поиск работы\=Спарго Технологии=\SmallFarmaClient\obj\Debug\SmallFarmaClient.pdb
